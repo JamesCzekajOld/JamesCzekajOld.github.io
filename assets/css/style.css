@@ -1,0 +1,12 @@
+.jumbotron {
+  background-color: #4182A7;
+  color: #FFF;
+}
+
+.jumbotron a {
+  color: #C4C4C4;
+}
+
+.jumbotron .list-group a {
+  color: #747474;
+}
