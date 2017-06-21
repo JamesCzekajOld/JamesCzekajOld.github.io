@@ -35,3 +35,7 @@ hr {
   width: 98%;
   margin: auto;
 }
+
+nav ul li a {
+	border-radius: 0 0 15px 15px;
+}
