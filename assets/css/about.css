@@ -1,0 +1,21 @@
+.jumbotron {
+  background-color: #4182A7;
+  color: #FFF;
+}
+
+.jumbotron a {
+  color: #A7C7DA;
+}
+
+.jumbotron .list-group a {
+  color: #747474;
+}
+
+#notice {
+  margin-top: 20px;
+  background: #3C793E;
+}
+
+#notice-btn {
+  color: #E2F0FF;
+}
