@@ -28,5 +28,10 @@ hr {
 }
 
 .navbar-fixed-bottom, .navbar-fixed-top {
-    border-radius: 0 0 15px 15px;
+  border-radius: 0 0 15px 15px;
+}
+
+.navbar-default .navbar-collapse {
+  width: 98%;
+  margin: auto;
 }
