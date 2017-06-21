@@ -1,0 +1,33 @@
+html {
+  height: 100%;
+}
+
+body {
+  text-align: center;
+  background: url("https://source.unsplash.com/bKhd_Rx9LEI/1280x720");
+  background-size: cover;
+  background-position:  top;
+  color: #FFF;
+}
+
+#content {
+  padding-top: 25%;
+  letter-spacing: 4px;
+  font-family: Oswald, sans-serif;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.8),
+               0 4px 8px rgba(0, 0, 0, 0.4),
+               0 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+h1 {
+  font-size: 5em;
+  font-weight: bold;
+}
+
+hr {
+  max-width: 600px;
+}
+
+.navbar-fixed-bottom, .navbar-fixed-top {
+    border-radius: 0 0 15px 15px;
+}
